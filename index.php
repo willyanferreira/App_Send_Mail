@@ -1,5 +1,5 @@
 <html>
-	<head>
+	<head lang="pt-br">
 		<meta charset="utf-8" />
     	<title>App Mail Send</title>
 
